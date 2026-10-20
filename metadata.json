@@ -1,0 +1,6 @@
+{
+  "name": "Dapur Nusantara - Resep Tradisional",
+  "description": "Aplikasi resep masakan tradisional khas Nusantara dengan foto otentik, takaran porsi cerdas, pengatur waktu memasak, dan daftar belanjaan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
